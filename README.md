@@ -18,7 +18,7 @@ $ npm run build
 
 >git remote add origin git@github.com:aivat/git_test.git
 
-g>it push -u origin master`
+>git push -u origin master`
 
 
 …or push an existing repository from the command line
